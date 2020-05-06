@@ -8,7 +8,7 @@
 #define HPX_LCOS_SPMD_BLOCK_HPP
 
 #include <hpx/collectives/barrier.hpp>
-#include <hpx/collectives/broadcast.hpp>
+#include <hpx/collectives/broadcast_direct.hpp>
 #include <hpx/concepts/concepts.hpp>
 #include <hpx/execution/execution.hpp>
 #include <hpx/functional/first_argument.hpp>
